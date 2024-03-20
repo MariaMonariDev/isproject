@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="input_edittext" type="id" />
+    <item name="latEditText" type="id" />
+    <item name="lonEditText" type="id" />
+    <item name="housingAgeEditText" type="id" />
+    <item name="totalRoomsEditText" type="id" />
+    <item name="populationEditText" type="id" />
+    <item name="totalBedroomsEditText" type="id" />
+    <item name="medianIncomeEditText" type="id" />
+    <item name="householdsEditText" type="id" />
+    <item name="predict_button" type="id" />
+    <item name="textView" type="id" />
+    <item name="output_textview" type="id" />
+    <item name="latLayout" type="id" />
+    <item name="lonLayout" type="id" />
+    <item name="housingAgeLayout" type="id" />
+    <item name="housingAgeLabel" type="id" />
+    <item name="totalRoomsLayout" type="id" />
+    <item name="totalRoomsLabel" type="id" />
+    <item name="totalBedroomsLayout" type="id" />
+    <item name="totalBedroomsLabel" type="id" />
+    <item name="populationLayout" type="id" />
+    <item name="populationLabel" type="id" />
+    <item name="medianIncomeLayout" type="id" />
+    <item name="medianIncomeLabel" type="id" />
+    <item name="householdsLayout" type="id" />
+    <item name="householdsLabel" type="id" />
+</resources>
